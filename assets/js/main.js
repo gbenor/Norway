@@ -1,0 +1,7 @@
+
+const $=(s,c=document)=>c.querySelector(s),$$=(s,c=document)=>[...c.querySelectorAll(s)];
+const progress=$('.progress'),topBtn=$('.top'),lightbox=$('.lightbox'),lightImg=$('.lightbox img');
+addEventListener('scroll',()=>{const h=document.documentElement;progress.style.transform=`scaleX(${(h.scrollTop/(h.scrollHeight-h.clientHeight))||0})`;topBtn.classList.toggle('show',scrollY>700)},{passive:true});
+topBtn?.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$$('[data-gallery]').forEach(g=>{const key=g.dataset.gallery,items=(window.PHOTO_MANIFEST&&window.PHOTO_MANIFEST[key])||[];g.innerHTML='';(items.length?items:[1,2,3,4,5,6].map(i=>({src:'',alt:`Photo placeholder ${i}`}))).forEach((it,i)=>{const b=document.createElement('button');b.className='ph';b.type='button';b.setAttribute('aria-label',it.alt||`Open gallery image ${i+1}`);if(it.src){const img=new Image();img.loading='lazy';img.src=it.src;img.alt=it.alt||'Norway travel photo';b.append(img)}else b.textContent='Photo placeholder';b.onclick=()=>{if(it.src){lightImg.src=it.src;lightImg.alt=it.alt||'';lightbox.classList.add('open');$('.close',lightbox).focus()}};g.append(b)})});
+function closeLightbox(){lightbox.classList.remove('open');lightImg.removeAttribute('src')}$('.close')?.addEventListener('click',closeLightbox);lightbox?.addEventListener('click',e=>{if(e.target===lightbox)closeLightbox()});addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
