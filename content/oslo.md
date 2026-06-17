@@ -1,0 +1,95 @@
+# Chapter 1 - First Impressions of Oslo
+
+Our Norway journey began in Oslo.
+
+The first surprise was how calm the city felt. We expected a European capital, and of course Oslo is a capital city, but it did not feel crowded or aggressive. Compared with cities such as London, Paris or Rome, Oslo felt quieter, cleaner and more open. The city seemed less obsessed with traffic and more designed around people, water, public spaces and access to nature.
+
+Another surprise was how close nature appeared to be. Even from the city centre, hills and forests were visible in the distance. At the time we did not yet understand how important this connection to nature is in Norwegian life. Over the next week, we would see it again and again: in skiing culture, mountain cabins, hiking trails, ferries, waterfalls, fjords and even the design of the cities.
+
+Oslo became our introduction to Norway not because it was dramatic like the fjords, but because it showed the Norwegian balance: city life, culture, modern design, history and nature all living very close together.
+
+## Exploring Oslo by City Bike
+
+One of the best decisions of our first day was renting Oslo city bikes.
+
+The public bike system made the city feel open and easy to explore. Stations are spread throughout central Oslo, and the bikes can be unlocked using a mobile app. For visitors, this is a very practical way to move between neighbourhoods and attractions without constantly waiting for public transport or paying for taxis.
+
+The cycling infrastructure felt safer and more organised than in many other cities. There were dedicated lanes, calm streets and a general sense that bikes were part of normal city life. We could start near the waterfront, move through the city, stop whenever something looked interesting, continue toward parks and museums, and cover much more ground than we would have managed by walking alone.
+
+For us, the city bikes gave the first day a sense of freedom. They also changed the mood of the city. Oslo did not feel like a place where we had to move from attraction to attraction. It felt like a city we could flow through.
+
+Practical note for future travellers: if the weather is reasonable and you are comfortable cycling, renting city bikes is one of the best ways to see Oslo in a single day.
+
+[PHOTO PLACEHOLDER: Oslo city bikes]
+
+## Oslo Opera House
+
+The Oslo Opera House was our first major stop.
+
+Unlike traditional opera houses, this building does not ask visitors only to look at it from the outside. It invites people to walk on it. The white sloping roof rises from the waterfront like a sheet of ice or a glacier sliding into the Oslofjord. Visitors can climb from street level all the way to the roof and look back over the harbour, the islands and the city.
+
+The building was designed by the Norwegian architectural firm Snøhetta and opened in 2008. It quickly became one of Oslo's most recognisable modern landmarks, not only because of its appearance but because of the way it turns a cultural building into a public space. You do not need a ticket to experience the most famous part of it. You simply walk up.
+
+What made our visit more memorable was the atmosphere around the city that day. There was a march with orchestras and performers, filling the streets with music and movement. It was not something we had planned, but it gave our first hours in Norway a festive feeling. Instead of arriving into a quiet, formal capital, we arrived into a city with music in the streets and people gathered around the waterfront.
+
+The Opera House was a perfect first stop because it introduced several themes that would repeat throughout the trip: modern design, public access, water, and the Norwegian habit of turning important places into spaces people can actually use.
+
+[PHOTO PLACEHOLDER: Oslo Opera House roof and orchestra march]
+
+## Vigeland Sculpture Park
+
+If the Opera House represents modern Norway, Vigeland Park represents something more human and timeless.
+
+Vigeland Park is the largest sculpture park in the world created by a single artist. Norwegian sculptor Gustav Vigeland designed more than 200 sculptures and over 600 human figures for the park. The works explore the full human journey: childhood, family, love, conflict, aging, loneliness and death.
+
+What makes the park unusual is that the sculptures are not about kings, generals or famous historical events. They are about ordinary people and ordinary emotions. Children play. Parents hold their children. Couples argue. Old people sit quietly. Human bodies appear strong, weak, funny, angry and vulnerable.
+
+One question came immediately: why is everyone naked?
+
+At first, the nudity can feel strange, especially in a public park. But it is central to the idea of the place. Vigeland removed clothing, uniforms and social markers so the figures would not represent specific professions, classes, periods or nationalities. Without clothes, the sculptures become more universal. They are not rich or poor, modern or ancient, Norwegian or foreign. They are simply human.
+
+That helped us understand the park differently. It was not trying to be provocative. It was trying to show human life without decoration.
+
+We also noticed how many children appear in the sculptures. This is because the park is built around the cycle of life. Children represent beginnings, energy, dependence, frustration, joy and the continuation of life. The famous Angry Boy statue is a perfect example. It is funny because it is so recognisable. Anyone who has seen a child lose patience understands it immediately.
+
+The most famous work is the Monolith, a 17-metre granite column carved from a single block of stone. It contains 121 intertwined human figures climbing toward the sky. Vigeland never gave one final explanation of its meaning, which may be why it remains so powerful. It can represent struggle, ambition, community, spiritual growth, the cycle of life, or the human desire to rise above ordinary existence.
+
+Walking through the park, we noticed how naturally locals used it. People jogged between the sculptures. Families walked with children. Tourists moved slowly from one group of figures to the next. Art was not isolated behind museum walls. It was part of daily life.
+
+This was one of the first places where we felt that Norway invests in public spaces not only as decoration, but as places where people are meant to spend time.
+
+[PHOTO PLACEHOLDER: Vigeland sculptures, Monolith, Angry Boy]
+
+## Fram Museum
+
+One of the highlights of Oslo was the Fram Museum.
+
+The museum houses the original Fram, one of the most famous exploration ships in Norwegian history. The Fram carried explorers such as Fridtjof Nansen, Otto Sverdrup and Roald Amundsen into the Arctic and Antarctic. Amundsen later became the first person to reach the South Pole.
+
+Walking aboard the ship made Norwegian exploration history tangible. The cabins were small. The living conditions looked harsh. It was difficult to imagine spending months or years trapped in polar ice, surrounded by darkness, cold and uncertainty.
+
+What impressed us most was that the story was not only about adventure. It was about endurance, planning and scientific curiosity. The Fram was built to survive being frozen into ice rather than crushed by it. The ship was designed for one of the most extreme environments on Earth.
+
+The museum helped us understand something important about Norway: this is a country shaped by harsh geography and climate. Exploration, skiing, hiking and survival in nature are not separate from national identity. They are part of it.
+
+[PHOTO PLACEHOLDER: Fram Museum and ship interior]
+
+## Akershus Fortress
+
+Akershus Fortress stands above Oslo Harbour and has protected the city for more than seven centuries.
+
+Construction began around the year 1299 under King Haakon V. Over time the fortress served as a military stronghold, royal residence, prison and symbol of Norwegian sovereignty. It survived wars, sieges and occupation, including the Second World War.
+
+For us, Akershus was valuable because it connected Oslo's modern waterfront to its older history. From the fortress walls, the strategic importance of the location becomes clear. Whoever controlled this point controlled the harbour and access to the city.
+
+Unlike some European castles that feel isolated from modern life, Akershus still feels integrated into Oslo. It sits beside the harbour, near modern buildings and public spaces, reminding visitors that the city has layers: medieval, maritime, royal, military and modern.
+
+[PHOTO PLACEHOLDER: Akershus Fortress and harbour views]
+
+## Oslo Reflection
+
+By the end of our first Oslo day, we had seen a surprising range of places: a modern opera house, a public sculpture park, a polar exploration ship, a medieval fortress, a music-filled street march and ordinary city life by bike.
+
+The biggest lesson was that Oslo is not a city to understand only through monuments. It is a city to move through: by bike, by foot, by ferry, by metro and eventually by train into the hills.
+
+We arrived expecting Norway's greatest beauty to begin later, in the fjords. Oslo showed us that the Norwegian story begins already in the capital: with water, public space, outdoor life and a deep connection to nature.
